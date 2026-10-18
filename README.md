@@ -9,7 +9,7 @@ Hi, I'm **Yoni Taine**, a 21-year-old computer science student at INSSET Saint-Q
 -   :helicopter: Currently building an FPV drone
 -   :brain: Currently learning some electronics tips
 -   :speech_balloon: Ask me about anything — I'm full of myself, obviously :sweat_smile:
--   :mailbox: [taine.yoni@gmail.com](mailto:taine.yoni@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yoni-taine) · [X](https://www.x.com/AruYonii) · [Twitch](https://www.twitch.tv/aruyoni) · [Discord](https://discord.com/users/aruyoni)
+-   :mailbox: [taine.yoni@gmail.com](mailto:taine.yoni@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yoni-taine) · [Discord](https://discord.com/users/aruyoni)
 
 ---
 
