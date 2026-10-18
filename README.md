@@ -1,4 +1,4 @@
-Hi, I'm **Yoni Taine**, a 21-year-old computer science student at INSSET Saint-Quentin, France.
+Hi, I'm **Yoni Taine**, a <!--age-->21<!--/age-->-year-old computer science student at INSSET Saint-Quentin, France.
 
 -   :pencil2: TypeScript / C++ / C# / PHP / JavaScript / Python / Java / Swift / Bash
 -   :globe_with_meridians: [Astro](https://astro.build/) / [Vue](https://vuejs.org/) / [Tailwind](https://tailwindcss.com/) / [Fastify](https://fastify.dev/) / [Prisma](https://www.prisma.io/) / [Symfony](https://symfony.com/) / [Twig](https://twig.symfony.com/)

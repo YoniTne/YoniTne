@@ -14,6 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Update age
+        env:
+          BIRTHDATE: ${{ secrets.BIRTHDATE }}
+        run: |
+          [ -z "$BIRTHDATE" ] && exit 0  # secret not set yet
+          age=$(python3 -c "import datetime as d,os;b=d.date.fromisoformat(os.environ['BIRTHDATE']);t=d.date.today();print(t.year-b.year-((t.month,t.day)<(b.month,b.day)))")
+          sed -i "s|<!--age-->[0-9]*<!--/age-->|<!--age-->$age<!--/age-->|" README.md
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update age" && git push
+
       # pushes via git from the checkout, so it must run before waka (which commits through the API)
       - uses: jamesgeorge007/github-activity-readme@master
         env:
