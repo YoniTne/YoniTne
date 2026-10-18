@@ -27,6 +27,11 @@ Hi, I'm **Yoni Taine**, a 21-year-old computer science student at INSSET Saint-Q
 ### :bar_chart: Coding time in the last month
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
