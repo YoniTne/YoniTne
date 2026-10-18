@@ -16,6 +16,10 @@ Hi, I'm **Yoni Taine**, a 21-year-old computer science student at INSSET Saint-Q
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
+2. ℹ️ Labeled PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
+3. ℹ️ Assigned PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
+4. 💪 Opened PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
 <!--END_SECTION:activity-->
 
 ---
