@@ -8,7 +8,7 @@ Hi, I'm **Yoni Taine**, a 21-year-old computer science student at INSSET Saint-Q
 -   :rocket: [Voltaire99](https://github.com/YoniTne/Voltaire99) (real-time typing & logic battles) / [UMLDesigner](https://github.com/YoniTne/UMLDesigner) / [BeehiveManager](https://github.com/YoniTne/BeehiveManager) / [WeatherLinkSystem](https://github.com/YoniTne/WeatherLinkSystem)
 -   :helicopter: Currently building an FPV drone
 -   :brain: Currently learning some electronics tips
--   :speech_balloon: Ask me about anything — I'm full of myself, obviously :sweat_smile:
+-   :speech_balloon: Ask me about anything — I'm full of myself, obviously hehe :sweat_smile:
 -   :mailbox: [taine.yoni@gmail.com](mailto:taine.yoni@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yoni-taine) · [Discord](https://discord.com/users/aruyoni)
 
 ---
