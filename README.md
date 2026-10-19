@@ -16,10 +16,10 @@ Hi, I'm **Yoni Taine**, a <!--age-->21<!--/age-->-year-old computer science stud
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
-2. ℹ️ Labeled PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
-3. ℹ️ Assigned PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
-4. 💪 Opened PR [#4](https://github.com/ClubElecINSSET/WaterMonitor/pull/4) in [ClubElecINSSET/WaterMonitor](https://github.com/ClubElecINSSET/WaterMonitor)
+1. 🎉 Merged PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
+2. ℹ️ Assigned PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
+3. ℹ️ Labeled PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
+4. 💪 Opened PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
 <!--END_SECTION:activity-->
 
 ---
