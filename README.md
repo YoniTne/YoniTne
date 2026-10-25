@@ -16,10 +16,10 @@ Hi, I'm **Yoni Taine**, a <!--age-->21<!--/age-->-year-old computer science stud
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
-2. ℹ️ Assigned PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
-3. ℹ️ Labeled PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
-4. 💪 Opened PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
+1. 💪 Opened PR [#25](https://github.com/YoniTne/unobtrusive-logs-zed/pull/25) in [YoniTne/unobtrusive-logs-zed](https://github.com/YoniTne/unobtrusive-logs-zed)
+2. 🔒 Closed issue [#3](https://github.com/YoniTne/unobtrusive-logs-zed/issues/3) in [YoniTne/unobtrusive-logs-zed](https://github.com/YoniTne/unobtrusive-logs-zed)
+3. 🎉 Merged PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
+4. ℹ️ Assigned PR [#18](https://github.com/YoniTne/Voltaire99/pull/18) in [YoniTne/Voltaire99](https://github.com/YoniTne/Voltaire99)
 <!--END_SECTION:activity-->
 
 ---
