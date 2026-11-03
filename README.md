@@ -16,10 +16,10 @@ Hi, I'm **Yoni Taine**, a <!--age-->21<!--/age-->-year-old computer science stud
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/YoniTne/TurtleGPR/pull/16) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-2. 💪 Opened PR [#16](https://github.com/YoniTne/TurtleGPR/pull/16) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-3. 💪 Opened PR [#25](https://github.com/YoniTne/unobtrusive-logs-zed/pull/25) in [YoniTne/unobtrusive-logs-zed](https://github.com/YoniTne/unobtrusive-logs-zed)
-4. 🔒 Closed issue [#3](https://github.com/YoniTne/unobtrusive-logs-zed/issues/3) in [YoniTne/unobtrusive-logs-zed](https://github.com/YoniTne/unobtrusive-logs-zed)
+1. ℹ️ Labeled PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+2. 🗣 Commented on [#17](https://github.com/YoniTne/TurtleGPR/pull/17#issuecomment-6599698118) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+3. ❌ Closed PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+4. ℹ️ Labeled PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
 <!--END_SECTION:activity-->
 
 ---
