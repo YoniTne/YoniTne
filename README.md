@@ -16,9 +16,9 @@ Hi, I'm **Yoni Taine**, a <!--age-->21<!--/age-->-year-old computer science stud
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-2. 🗣 Commented on [#17](https://github.com/YoniTne/TurtleGPR/pull/17#issuecomment-6599698118) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-3. ❌ Closed PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+1. ℹ️ Assigned PR [#18](https://github.com/YoniTne/TurtleGPR/pull/18) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+2. ℹ️ Unlabeled PR [#18](https://github.com/YoniTne/TurtleGPR/pull/18) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+3. ℹ️ Labeled PR [#18](https://github.com/YoniTne/TurtleGPR/pull/18) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
 4. ℹ️ Labeled PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
 <!--END_SECTION:activity-->
 
