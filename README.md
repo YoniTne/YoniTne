@@ -16,10 +16,10 @@ Hi, I'm **Yoni Taine**, a <!--age-->21<!--/age-->-year-old computer science stud
 ### :zap: Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#18](https://github.com/YoniTne/TurtleGPR/pull/18) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-2. ℹ️ Unlabeled PR [#18](https://github.com/YoniTne/TurtleGPR/pull/18) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-3. ℹ️ Labeled PR [#18](https://github.com/YoniTne/TurtleGPR/pull/18) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
-4. ℹ️ Labeled PR [#17](https://github.com/YoniTne/TurtleGPR/pull/17) in [YoniTne/TurtleGPR](https://github.com/YoniTne/TurtleGPR)
+1. 🎉 Merged PR [#22](https://github.com/YoniTne/Moliere99/pull/22) in [YoniTne/Moliere99](https://github.com/YoniTne/Moliere99)
+2. 💪 Opened PR [#22](https://github.com/YoniTne/Moliere99/pull/22) in [YoniTne/Moliere99](https://github.com/YoniTne/Moliere99)
+3. 🎉 Merged PR [#21](https://github.com/YoniTne/Moliere99/pull/21) in [YoniTne/Moliere99](https://github.com/YoniTne/Moliere99)
+4. 💪 Opened PR [#21](https://github.com/YoniTne/Moliere99/pull/21) in [YoniTne/Moliere99](https://github.com/YoniTne/Moliere99)
 <!--END_SECTION:activity-->
 
 ---
